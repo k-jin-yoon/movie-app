@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 className={styles.title}>Welcom back!</h1>
+        <h1 className={styles.title}>Welcome back!</h1>
       </header>
       <div>{count}</div>
       <Button text={"continue"} onClick={onClick}/>
